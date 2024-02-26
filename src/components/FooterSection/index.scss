@@ -1,0 +1,28 @@
+$footer-bg: #212731;
+
+.footer-section {
+  display: flex;
+  background-color: $footer-bg;
+  height: 40vh;
+  color: white;
+  align-items: center;
+  justify-content: space-evenly;
+  padding-left: 100px;
+  padding-bottom: 50px;
+  padding-right: 200px;
+}
+.category-item {
+  margin-top: 10px;
+  font-size: 13px;
+  margin-bottom: 0px;
+}
+.category-heading {
+  height: 20px;
+  margin-bottom: 0px;
+  font-size: 16px;
+}
+.select-element {
+  background-color: transparent;
+  border: 0px;
+  color: #fbfcfd;
+}
